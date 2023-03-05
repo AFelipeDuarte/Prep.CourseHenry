@@ -1,2 +1,1 @@
-# Prep.CourseHenry
-Este es un archivo de prueba
+este proyecto es una prueba de uun repositorio en git hub
